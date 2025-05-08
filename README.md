@@ -1,6 +1,6 @@
 # Hi, I'm Mitch Coleman
 
-I'm a cybersecurity officer and computer science student with an emphasis in machine learning. I currently work at MadisonHealth, where I focus on HIPAA compliance, endpoint security, vulnerability management, and access control. I'm also pursuing my degree at Brigham Young University–Idaho and plan to graduate in May 2025.
+I'm a cybersecurity officer and computer science student with an emphasis in machine learning. I currently work at MadisonHealth, where I focus on HIPAA compliance, endpoint security, vulnerability management, and access control. I'm also pursuing my degree at Brigham Young University–Idaho and plan to graduate in December 2025.
 
 I have hands-on experience with both offensive and defensive cybersecurity, data science projects, and system administration. I enjoy solving real-world problems, whether it's through automation scripts, machine learning models, or enterprise security improvements.
 
